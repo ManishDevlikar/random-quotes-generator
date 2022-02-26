@@ -23,15 +23,16 @@ body{
         background-color: azure;
         box-shadow: 5px 10px 8px 10px rgba(54, 187, 211, 0.7);
         background-color: rgba(255, 255, 255, 0.9);
+        border-radius: 2px;
     }
 .quotes p, .quotes h3{
     font-size: 1.5rem;
 }
 .btn-info{
-    background-color: rgb(34, 191, 253);
+    background-color: rgb(34, 191, 253 );
 }
 .btn-info:hover{
-    background-color: rgb(54, 193, 235);
+    background-color: rgb(34, 185, 231);
 }
 
 @media (max-width:450px){
